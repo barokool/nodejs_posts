@@ -1,0 +1,3 @@
+{
+    "mongoURL" : "mongodb+srv://baro:1234@posts.nycz7.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
